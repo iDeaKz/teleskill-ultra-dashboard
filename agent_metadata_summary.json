@@ -1,0 +1,142 @@
+[
+  {
+    "id": "Agent_0001",
+    "domain": "authentication",
+    "personality": "supportive",
+    "symbol": "abrupt",
+    "intent": "symbol_abrupt_intent"
+  },
+  {
+    "id": "Agent_0002",
+    "domain": "smart contracts",
+    "personality": "detailed",
+    "symbol": "stop",
+    "intent": "symbol_stop_intent"
+  },
+  {
+    "id": "Agent_0003",
+    "domain": "network monitoring",
+    "personality": "supportive",
+    "symbol": "apply",
+    "intent": "symbol_apply_intent"
+  },
+  {
+    "id": "Agent_0004",
+    "domain": "cloud security",
+    "personality": "detailed",
+    "symbol": "filter",
+    "intent": "symbol_filter_intent"
+  },
+  {
+    "id": "Agent_0005",
+    "domain": "authentication",
+    "personality": "detailed",
+    "symbol": "indexOf",
+    "intent": "symbol_indexOf_intent"
+  },
+  {
+    "id": "Agent_0006",
+    "domain": "finance",
+    "personality": "assertive",
+    "symbol": "match",
+    "intent": "symbol_match_intent"
+  },
+  {
+    "id": "Agent_0007",
+    "domain": "ecommerce",
+    "personality": "detailed",
+    "symbol": "trim",
+    "intent": "symbol_trim_intent"
+  },
+  {
+    "id": "Agent_0008",
+    "domain": "analytics",
+    "personality": "humorous",
+    "symbol": "replace",
+    "intent": "symbol_replace_intent"
+  },
+  {
+    "id": "Agent_0009",
+    "domain": "analytics",
+    "personality": "detailed",
+    "symbol": "catch",
+    "intent": "symbol_catch_intent"
+  },
+  {
+    "id": "Agent_0010",
+    "domain": "education",
+    "personality": "detailed",
+    "symbol": "charAt",
+    "intent": "symbol_charAt_intent"
+  },
+  {
+    "id": "Agent_0011",
+    "domain": "finance",
+    "personality": "friendly",
+    "symbol": "split",
+    "intent": "symbol_split_intent"
+  },
+  {
+    "id": "Agent_0012",
+    "domain": "game development",
+    "personality": "supportive",
+    "symbol": "map",
+    "intent": "symbol_map_intent"
+  },
+  {
+    "id": "Agent_0013",
+    "domain": "game development",
+    "personality": "humorous",
+    "symbol": "o",
+    "intent": "symbol_o_intent"
+  },
+  {
+    "id": "Agent_0014",
+    "domain": "blockchain",
+    "personality": "formal",
+    "symbol": "push",
+    "intent": "symbol_push_intent"
+  },
+  {
+    "id": "Agent_0015",
+    "domain": "social media",
+    "personality": "supportive",
+    "symbol": "toLowerCase",
+    "intent": "symbol_toLowerCase_intent"
+  },
+  {
+    "id": "Agent_0016",
+    "domain": "cloud security",
+    "personality": "formal",
+    "symbol": "substring",
+    "intent": "symbol_substring_intent"
+  },
+  {
+    "id": "Agent_0017",
+    "domain": "project management",
+    "personality": "casual",
+    "symbol": "charCodeAt",
+    "intent": "symbol_charCodeAt_intent"
+  },
+  {
+    "id": "Agent_0018",
+    "domain": "education",
+    "personality": "supportive",
+    "symbol": "getElapsedTime",
+    "intent": "symbol_getElapsedTime_intent"
+  },
+  {
+    "id": "Agent_0019",
+    "domain": "social media",
+    "personality": "supportive",
+    "symbol": "slice",
+    "intent": "symbol_slice_intent"
+  },
+  {
+    "id": "Agent_0020",
+    "domain": "network monitoring",
+    "personality": "detailed",
+    "symbol": "forEach",
+    "intent": "symbol_forEach_intent"
+  }
+]
